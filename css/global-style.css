@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+}
+html, body {
+	position: relative;
+	height: 100%;
+}
+.page-wrap {
+	margin: 0 0 40px; /* bottom = footer height */
+}
+
+.site-footer {
+	/*position: absolute;*/
+	left: 0;
+	bottom: 0;
+	height: 40px;
+	width: 100%;
+}
+
+ #footer{
+	 font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	 font-size:11px;
+	 max-width: 900px;
+	 margin: 0 auto;
+ }
+
+
+.clearfix {
+  clear: both;
+}
