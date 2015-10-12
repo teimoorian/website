@@ -24,7 +24,18 @@ html, body {
 	 margin: 0 auto;
  }
 
-
 .clearfix {
   clear: both;
+}
+
+#art-container {
+	clear: both;
+}
+
+.art-thumbnail {
+	width: 190px;
+	min-height: 210px;
+	/*border:solid 1px #999999;*/
+	margin: 20px 46.6px 20px 0px;
+	float: left;
 }

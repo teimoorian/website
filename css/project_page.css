@@ -1,0 +1,111 @@
+
+#container {
+	max-width: 900px;
+	min-width: 900px;
+	margin: 0 auto;
+	border: rgba(51,51,51,1) ;
+	border-width: medium;
+}
+
+#header {
+	clear: both;
+}
+
+#header-image{
+	height: 160px;
+}
+
+#logo-container{
+	margin-top:28px;
+	margin-left:6px;
+}
+
+
+#content {
+	/*background:rgba(255,255,153,1);*/
+	min-height: 500px;
+	margin-top: 20px;
+}
+
+#content-text {
+	/*background:rgba(255,153,102,1);*/
+	float: left;
+	width: 28%;
+	min-height: 500px;
+}
+
+#content-images {
+/*background:rgba(51,102,204,1);*/
+width: 72%;
+min-height: 500px;
+float:left;
+}
+
+#images-wrapper{
+	/*margin-right:6px;*/
+}
+
+#content-container {
+	clear: both;
+}
+
+#content-wrapper {
+padding-right: 5px;
+}
+
+#project-title {
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+font-size:20px;
+font-weight:400;
+}
+
+#art-description {
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size:11px;
+padding-right:20px;
+padding-top:8px;
+
+}
+
+
+.art-work {
+margin-bottom: 10px;
+float: right;
+}
+
+.art {
+max-width: 640px;
+height: auto;
+}
+
+#main-menu {
+	float:right;
+	list-style:none;
+
+	clear: both;
+	margin-bottom: 20px;
+}
+
+#main-menu li {
+float:left;
+font-size: 14px;
+margin-left:30px;
+margin-top:10px;
+font-family:Tahoma, Geneva, sans-serif;
+}
+
+#main-menu li a {
+color:rgba(102,102,102,1);
+text-decoration:none;
+}
+
+#desk-art {
+max-width: 900px;}
+
+.art-work {
+	/*
+-webkit-box-shadow: 0px 0px 41px -10px rgba(148,148,148,1);
+-moz-box-shadow: 0px 0px 41px -10px rgba(148,148,148,1);
+box-shadow: 0px 0px 41px -10px rgba(148,148,148,1);
+*/
+}
